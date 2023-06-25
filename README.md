@@ -1,6 +1,8 @@
 This Dashboard was made using Figma and converted to Tkinter using the Tkinter Designer Module
 https://github.com/ParthJadhav/Tkinter-Designer
 
+Note: The UI design alone was made on figma.
+
 Initial Requirements:
 Please make sure to have mysql with username: root, password:0000 and a database called python.
 Create a table fruits:
